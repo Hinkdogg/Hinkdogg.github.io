@@ -1,0 +1,31 @@
+body {
+	background-color: lightblue;
+	font-family: Veranda, Geneva, sans-serif;
+}
+
+.orange {
+	color: purple;
+}
+
+.blue {
+	color: blue;
+}
+
+.red {
+	color: red;
+}
+
+#section1 {
+	background-color: lightblue;
+	font-family: Impact;
+}
+
+#section2 {
+	background-color: green;
+	font-family: Tahoma;
+}
+
+#section3 {
+	background-color: orange;
+	font-family: Arial;
+}

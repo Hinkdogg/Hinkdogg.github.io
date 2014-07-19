@@ -1,0 +1,33 @@
+h1, h4 {
+	background: yellow;
+	padding: 60px;
+	margin: 10px 10px;
+	border: red;
+}
+
+#footer {
+	background: pink
+	margin: 10px;
+	padding: 15px
+	border: solid black;
+}
+
+a:hover {
+    color: purple;
+}
+
+a {
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 25px;
+	padding: 60px;
+	margin: 10px 10px;
+}
+
+.width {
+	width: 100%;
+}
+
+#sidebar {
+	width: 20%;
+	margin-left: 10px;
+}
