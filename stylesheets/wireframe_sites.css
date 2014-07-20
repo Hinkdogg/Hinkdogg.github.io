@@ -1,0 +1,33 @@
+body {
+	background-color: lightblue;
+	font-family: Veranda, Geneva, sans-serif;
+}
+
+.blue {
+	color: blue;
+}
+
+.black {
+	color: black;
+}
+
+
+#section1 {
+	background-color: lightblue;
+	font-family: Impact;
+}
+
+#section2 {
+	background-color: green;
+	font-family: Tahoma;
+}
+
+#section3 {
+	background-color: orange;
+	font-family: Arial;
+}
+
+.width {
+	width: 100%;
+}
+
