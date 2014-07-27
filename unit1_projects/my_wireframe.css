@@ -1,0 +1,42 @@
+header {
+	float:left;
+	text-align: center;
+	font-weight: 200;
+	margin: 10px;
+	padding: 1px;
+	border: 1px;
+	background-color: red;
+}
+
+html {
+	background-image: url(http://wallpaperjpeg.com/wp-content/uploads/2014/06/dirt_bike_free_style_1280_x_720_267.jpg);
+	background-position: center;
+	background-size: auto;
+	height: 100%;
+}
+
+
+#section_left {
+padding: 12px;
+float:left;
+width: 75%;
+}
+
+#section_right {
+padding: 12px;
+float: left;
+width: 18%;
+background-color: yellow;
+}
+
+footer {
+	float: left;
+	clear: both;
+	text-align: center;
+	font-weight: 200;
+	margin: 10px;
+	padding: 1px;
+	border: 1px;
+	background-color: red;
+	width: 100%;
+}
