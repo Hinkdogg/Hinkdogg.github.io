@@ -1,0 +1,48 @@
+header, footer {
+	float: left;
+	text-align: center;
+	min-width: 100%;
+	padding: 15px;
+	background-color: #3999ED;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+h1, h2, h3, p{
+	font-family: helvetica;
+}
+
+ul, li{
+
+}
+
+#section_left{
+float:left;
+width: 67%;
+padding: 15px;
+}
+
+#section_right, #section_media{
+float: left;
+width: 28%;
+padding: 15px;
+}
+
+
+/* for desktop*/
+@media only screen and (min-width: 1200px){
+	section{ width: auto;}
+
+}
+/* for ipad */
+@media all and (max-device-width: 1024){
+	body, section, #section_right{
+	float: none;
+	width: 100%;
+	}
+}
+
+

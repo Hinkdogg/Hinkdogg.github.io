@@ -1,0 +1,28 @@
+body {
+	background-color: #71EB73;
+	font-family: Veranda, Geneva, sans-serif;
+}
+
+.red {
+	color: red;
+}
+
+#section1 {
+	background-color: #8971EB;
+	font-family: Impact;
+}
+
+#section2 {
+	background-color: white;
+	font-family: Tahoma;
+}
+
+#section3 {
+	background-color: orange;
+	font-family: Arial;
+}
+
+#section4 {
+	background-color: pink;
+	font-family: Tahoma;
+}
