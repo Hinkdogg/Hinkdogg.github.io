@@ -1,0 +1,8 @@
+# U1.W2: Chrome Dev Tools Challenge Reflection
+
+* Describe the Document Object Model? What about it makes sense to you? What doesn't? What seems good and bad about it?
+* The DOM is like a map with a hierarchy that makes it easier for the programmer and the computer to locate what it is looking for. I always found in my work that organization is key, but I don't feel like I know enough about coding to realize how big of an impact this will probably have.
+* How did using Chrome Web Tools to look at your site and a wordpress.com site compare? First thing, the Elements tab on wordpress.com is much cleaner when you first open it up. Secondly, I noticed there were a lot more link ref and meta's on wordpress.com and a more div's on my github.com page.
+* Did you find Chrome Web Tools fun, helpful, or a pain to work with? I found Chrom Web Tools very helpful. I think once we dive more into this kind of stuff it will prove to be one of the most important tools we have at our disposal.
+* Did you have an "aha" moments or were any concepts solidified? I did not really an 'aha' moment this time. Things did seem to make sense as I went along with the material. We will see if that transfers over to actual practice.
+* Did you find any resources on your own that helped you better understand a topic? If so, please list it. I did not find any additional resources for this challenge. I had my hands full with the documentation provided and thought I understood it well enough to not have to look elsewhere.
