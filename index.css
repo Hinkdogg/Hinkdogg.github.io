@@ -1,0 +1,24 @@
+html {
+	background-image: url(http://www.exfoleyation.co.uk/photography/Tanzania/images/45_%20Stone%20Town%20beach_JPG.jpg);
+	background-position: center;
+	background-size: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+header {
+	float: left;
+	text-align: center;
+	min-width: 100%;
+	font-family: 'Oswald', 'sans-serif';
+}
+
+h1, h2, h3 {
+	text-align: center;
+	width: 100%;
+	padding: 1.25px;
+}
+
+h3 a:hover {
+	color: yellow;
+}
