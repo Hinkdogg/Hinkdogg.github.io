@@ -1,0 +1,38 @@
+header, footer {
+	float: left;
+	text-align: center;
+	min-width: 100%;
+	padding: 15px;
+	background-color: green;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+h1, h2, h3, p{
+	font-family: helvetica;
+	text-align:center;
+}
+
+ul, li{
+
+}
+
+#section_left{
+float:left;
+width: 67%;
+padding: 1.25px;
+}
+
+#section_right, #section_media{
+float: left;
+width: 28%;
+padding: 1.25%;
+}
+
+
+
+
+
