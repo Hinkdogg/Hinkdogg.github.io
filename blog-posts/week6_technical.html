@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="../stylesheets/stylesheet.css">
+    <title>Week 6 Technical Blog</title>
+  </head>
+  <body>
+
+    <header>
+      <h1>Blocks, Procs, and Lambdas</h1>
+      <h3>A Quick Guide</h3>
+      <h4>By: Jonathan Hinkey</h4>
+    </header>
+<section>
+
+  <div id="section_left">
+    <div>
+  <h1>Briefing</h1>
+  <h3>Block</h3><p>A block is just a bit of code between do...end or {}. It is not an objoect on its own, but it can be passed ot methods like .each or .select</p>
+  <h3>Proc</h3><p>A proc is a saved block we can use over and over.</p>
+  <h3>Lambda</h3><p>A lambda is just like a proc, only it cares about the number of arguments it gets and it returns to its calling method rather than returning immediately.</p>
+
+    
+</div>
+    <div>
+     <p>What does this all mean? Well for starters let's give an example of a block. Below is a basic example of a block. This block will print "I'm a block" 5 times</p>
+     <img src="../images/basic_block.png">
+     <p>Next up is the proc. This is just a saved block you can use over and over. Below is how you define and call a proc. In this example we used .collect(&round_down), but you can also use call procs using .call.</p>
+     <img src="../images/basic_proc.png">
+     <p>Lastly we have lambdas. Lambdas are the same as procs except they return to the calling method rather than returning immediately.</p>
+     <img src="../images/basic_lambda.png">
+     <p>In the example provided the first method is a proc and will immediately return "Batman will win!". The second method is a lambda and instead of immediately returing "Batman will win" it waits to see if there is anything to return. In this case "Iron Man will win!" is the last string to return. So to summarize batman_ironman_proc will return "Batman will win!" and batman_ironman_lambda will return "Iron Man will win!"
+    </div>
+
+</div>
+<div id="section_media"> 
+<iframe src="https://www.youtube.com/embed/pYrrWtB5qDU" frameborder="0"></iframe>
+
+</div>
+
+</section>
+  </body>
+
+<footer>
+  Created by Jonathan Hinkey
+</footer>
+</html>
